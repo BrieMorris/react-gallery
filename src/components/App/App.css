@@ -3,13 +3,19 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: darkgreen;
+  font-family: Georgia;
   padding: 1em;
-  color: white;
+  color: rgb(186, 228, 186);
   margin-bottom: 1em;
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 2.5em;
 }
 
+.heading {
+  color: darkgreen;
+  font-size: 1.5em;
+  font-family: Georgia;
+}
